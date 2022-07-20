@@ -1,4 +1,4 @@
-# (◉‿◉)つ Hi there
+# \(^_^)/ Hi there
 - **My name is Hans Sean Nathanael**
 - **I'm from Indonesia**
 - **I'm still learning programming as university student**
